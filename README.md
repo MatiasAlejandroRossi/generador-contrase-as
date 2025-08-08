@@ -17,5 +17,5 @@ Este proyecto en Python permite generar contraseñas seguras para aplicaciones q
 
 1. Cloná el repositorio:
    ```bash
-   git clone https://github.com/tuusuario/generador-contraseñas
-   cd generador-contraseñas
+   git clone https://github.com/MatiasAlejandroRossi/generador-contrase-as
+   cd generador-contrase-as
